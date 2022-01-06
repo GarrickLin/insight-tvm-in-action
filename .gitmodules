@@ -1,0 +1,3 @@
+[submodule "tvm"]
+	path = tvm
+	url = https://hub.fastgit.org/apache/tvm.git
